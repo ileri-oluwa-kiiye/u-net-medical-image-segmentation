@@ -1,4 +1,4 @@
-# U-Net for Medical Image Segmentation🩻
+# U-Net for Medical Image Segmentation
 
 This repository contains an implementation of the U-Net architecture for medical image segmentation tasks. U-Net is widely used in biomedical image analysis, especially for segmenting organs, tumors, and other medical features from scans such as MRI and CT.
 
